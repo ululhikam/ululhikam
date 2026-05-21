@@ -1,65 +1,43 @@
 
-<div align="center">
+# Ulul Hikam
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                     ✨ Ulul Hikam ✨                                  ║
-║          Informatics Student | AI Engineer in Progress                ║
-║     Data Science • Machine Learning • Deep Learning • Web Dev          ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+**Web Developer** | **Informatics Student** | **Aspiring AI Engineer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+🚀;Let%27s+build+intelligent+systems+together;Data+%7C+AI+%7C+Innovation;Always+Learning%2C+Never+Stopping" alt="Typing SVG" />
-
-<br/>
+Passionate about building elegant web experiences today, intelligent systems tomorrow.
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=ululhikam&color=00d9ff&style=flat-square)
-![Profile Views](https://img.shields.io/badge/Made%20with-❤️-FF69B4?style=flat-square)
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-Indonesia-FF6B6B?style=flat-square&logo=google-maps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Student%20%7C%20Developer-00D9FF?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Interest-AI%20%26%20Data%20Science-FFD700?style=flat-square&logo=python&logoColor=white"/>
-</div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-<div align="left">
+**Nama:** Ulul Hikam  
+**Status:** Informatics Student at Universitas Sarjanawiyata Tamansiswa  
+**Location:** Indonesia  
 
-**👤 Nama:** Ulul Hikam
+I'm a full-stack web developer with strong expertise in modern web technologies. Currently pursuing my degree in Informatics, I've built multiple projects using Vue.js, Laravel, and modern frontend frameworks. 
 
-**🎓 Status:** Mahasiswa Universitas Sarjanawiyata Tamansiswa  
-**📚 Program Studi:** Informatika (S1)
-
-**🚀 Career Path:** Web Development → **Data Science & AI** ← Current Focus
-
-**💡 Philosophy:** *"Transform data into intelligence, and intelligence into impact."*
-
-</div>
+While my foundation is solid in **Web Development**, my curiosity drives me toward **Data Science and AI Automation**—areas I'm actively exploring to combine web development with intelligent systems.
 
 ---
 
-## 🌟 Hero Story
+## What I Do
 
-<div align="center">
+**💻 Right Now:**
+- Building responsive, user-friendly web applications
+- Working with Vue.js, Laravel, and modern JavaScript frameworks
+- Creating clean, maintainable code with best practices
 
-> 🎓 Seorang Informatics student dengan passion mendalam terhadap **Data Science** dan **Artificial Intelligence**
-> 
-> 💻 Memulai dari Web Development, sekarang berfokus pada building intelligent systems
-> 
-> 🚀 Percaya bahwa teknologi adalah alat untuk solve real-world problems
-
-</div>
+**🎯 Next:**
+- Transitioning expertise into Data Science & AI Automation
+- Learning machine learning fundamentals and deep learning
+- Building intelligent web applications powered by AI
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Stack
 
-### 🌐 Frontend & Web Development
+###  Frontend & Web Development
 
 <div align="left">
 
@@ -73,7 +51,7 @@
 
 </div>
 
-### 🔧 Backend & Databases
+###  Backend & Databases
 
 <div align="left">
 
@@ -88,7 +66,7 @@
 
 </div>
 
-### ⚙️ Tools & DevOps
+###  Tools & DevOps
 
 <div align="left">
 
@@ -100,9 +78,9 @@
 
 ---
 
-## 🤖 Data Science & AI Stack
+##  Data Science & AI Stack
 
-### 📊 Data Science & Analysis
+###  Data Science & Analysis
 
 <div align="left">
 
@@ -115,7 +93,7 @@
 
 </div>
 
-### 🧠 Machine Learning & Deep Learning
+###  Machine Learning & Deep Learning
 
 <div align="left">
 
@@ -126,7 +104,7 @@
 
 </div>
 
-### 📔 Learning & Development
+###  Learning & Development
 
 <div align="left">
 
@@ -137,12 +115,13 @@
 
 ---
 
-## 🚀 Core Competencies
+##  Core Competencies
 
 <div align="left">
 
 | Category | Skills |
 |----------|--------|
+| **Web Development** | Full-stack Development • Responsive Design • API Integration |
 | **Data Manipulation** | Data Cleaning • Data Wrangling • Feature Engineering |
 | **Analysis** | Exploratory Data Analysis (EDA) • Statistical Analysis • Data Visualization |
 | **Machine Learning** | Supervised Learning • Unsupervised Learning • Model Tuning |
@@ -152,9 +131,9 @@
 
 </div>
 
----
 
-## 📚 Currently Learning
+
+<!-- ## 📚 Currently Learning
 
 <div align="left">
 
@@ -165,28 +144,29 @@
 - ☁️ Machine Learning Deployment & MLOps
 - 🤖 Reinforcement Learning Basics
 
-</div>
+</div> -->
 
 ---
-
+<!-- 
 ## 🎯 My Goals & Roadmap
 
 <div align="left">
 
 **Short Term (2024-2025):**
-- ✅ Master core ML & DL concepts
-- ✅ Complete 5+ ML/AI projects
-- ✅ Contribute to open source
+- ✅ Master advanced web development patterns
+- ✅ Build 3-5 production-grade web applications
+- ✅ Strengthen ML & Data Science foundation
+- ✅ Complete hands-on AI/ML projects
 
 **Long Term (2025+):**
-- 🎯 Berkarir sebagai **Data Scientist / AI Engineer**
-- 🎯 Membangun **intelligent systems** yang impactful
-- 🎯 Menjadi **lifelong learner** dan thought leader
-- 🎯 Berkontribusi ke **AI community**
+- 🎯 Transition into **Data Science and AI Automation** roles
+- 🎯 Become proficient in **machine learning engineering**
+- 🎯 Build **intelligent systems** that solve real-world problems
+- 🎯 Combine web development expertise with AI capabilities
 
 </div>
 
----
+--- -->
 
 ## 🌟 Featured Interests
 
@@ -194,11 +174,11 @@
 
 ```
 ┌─────────────────────────────────────┐
+│  💻 Modern Web Development          │
 │  📊 Data Science & Analytics        │
 │  🤖 AI & Machine Learning           │
 │  🧠 Deep Learning & Neural Networks │
 │  🔮 Intelligent Systems             │
-│  🌐 Web Development for Data Apps   │
 │  💫 Open Source & Community         │
 └─────────────────────────────────────┘
 ```
@@ -207,7 +187,7 @@
 
 ---
 
-## 📊 GitHub Stats & Analytics
+<!-- ##  GitHub Stats & Analytics
 
 <div align="center">
 
@@ -220,9 +200,9 @@
 
 </div>
 
----
+--- -->
 
-## 🗺️ Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=ululhikam&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
@@ -232,7 +212,7 @@
 
 ## 🌐 Connect With Me
 
-
+<div align="left">
 
 <a href="https://hikkammm.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-00D9FF?style=flat-square&logo=About.me&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://www.instagram.com/hikkammm_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117"/></a>
@@ -244,15 +224,13 @@
 
 ---
 
-## � Personal Motto
-
-
+##  Personal Motto
 
 > **"Belajar adalah perjalanan tanpa akhir. Teruslah bertumbuh, berinovasi, dan berkontribusi untuk masa depan yang lebih baik."**
 
 ---
 
-## 🎨 Design & Philosophy
+##  Design & Philosophy
 
 - **Clean Code** = Clear Mind
 - **Data-Driven** = Better Decisions
@@ -271,10 +249,5 @@
 ║  Feel free to reach out & connect with me!      ║
 ╚═════════════════════════════════════════════════╝
 ```
-
-**Last Updated:** May 2026 ⏰  
-**Status:** Always Open to Opportunities 🚀
-
-<img src="https://img.shields.io/badge/Made%20with%20love%20%26%20passion-FF1744?style=flat-square&logoColor=white"/>
 
 </div>
