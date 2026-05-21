@@ -216,7 +216,7 @@ While my foundation is solid in **Web Development**, my curiosity drives me towa
 
 <a href="https://hikkammm.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-00D9FF?style=flat-square&logo=About.me&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://www.instagram.com/hikkammm_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://linkedin.com/in/ululhikam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://id.linkedin.com/in/ulul-hikam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://github.com/ululhikam" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117"/></a>
 <a href="mailto:cemengsableng@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 
