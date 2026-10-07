@@ -22,19 +22,15 @@
 
 ---
 
-## 01 // About
+## 01 // 👤 About
 
 I build software — from interfaces to databases to the systems that connect them. Currently expanding that foundation into **Data** and **AI**, with a particular interest in **Natural Language Processing**.
 
 > **Software Developer exploring the intersection of software, data, and AI — and building products beyond the code.**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zingzy/panda-api/main/gifs/1.gif" width="260" alt="cute panda gif"/>
-</div>
-
 ---
 
-## 02 // Currently
+## 02 // 📍 Currently
 
 <table>
   <tr>
@@ -56,7 +52,7 @@ I build software — from interfaces to databases to the systems that connect th
 
 ---
 
-## 03 // The Journey
+## 03 // 🗺️ The Journey
 
 ```text
 Chapter 01 — Software      Web & software development: frontend, backend, APIs, databases
@@ -69,7 +65,7 @@ Chapter 06 — Beyond Code   Leadership, events, and project management
 
 ---
 
-## 04 // Tech Stack
+## 04 // 🛠️ Tech Stack
 
 **Web / Software**
 
@@ -96,7 +92,7 @@ Chapter 06 — Beyond Code   Leadership, events, and project management
 
 ---
 
-## 05 // Building
+## 05 // 🏗️ Building
 
 <table>
   <tr>
@@ -135,7 +131,7 @@ Demo:   ...
 
 ---
 
-## 06 // Beyond Code
+## 06 // 🎯 Beyond Code
 
 **Vice Chairman — Informatics Student Association (HIMA Informatika UST)**
 - **Syntax** — intro program for new students: workshops, academic competitions, collaboration
@@ -149,7 +145,7 @@ Demo:   ...
 
 ---
 
-## 07 // Learning Philosophy
+## 07 // 🧠 Learning Philosophy
 
 ```text
 Fundamentals → Systems → Implementation → Experimentation → Real-world Application
@@ -159,22 +155,28 @@ I'd rather understand *why* something works than collect frameworks — how syst
 
 ---
 
-## 08 // Languages
+## 08 // 🌐 Languages
 
 `ID` Indonesian · `EN` English · `NGH` Javanese Ngapak · `JAT` Javanese (East Java)
 
 ---
 
-## 09 // GitHub Activity
+## 09 // 📈 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ululhikam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=A371F7" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ululhikam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" height="170"/>
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ululhikam&theme=tokyonight&hide_border=true&background=0d1117&ring=A371F7&fire=A371F7&currStreakLabel=A371F7" height="170"/>
 
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ululhikam&theme=tokyo-night&hide_border=true&color=A371F7&line=6e40c9&point=ff6b6b"/>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/ululhikam/ululhikam/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake eating contributions"/>
 
@@ -182,7 +184,7 @@ I'd rather understand *why* something works than collect frameworks — how syst
 
 ---
 
-## 10 // Connect
+## 10 // 🔗 Connect
 
 <div align="center">
 
