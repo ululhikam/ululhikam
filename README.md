@@ -28,6 +28,10 @@ I build software — from interfaces to databases to the systems that connect th
 
 > **Software Developer exploring the intersection of software, data, and AI — and building products beyond the code.**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="260" alt="cat coding"/>
+</div>
+
 ---
 
 ## 02 // Currently
@@ -171,6 +175,8 @@ I'd rather understand *why* something works than collect frameworks — how syst
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ululhikam&theme=tokyonight&hide_border=true&background=0d1117&ring=A371F7&fire=A371F7&currStreakLabel=A371F7" height="170"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ululhikam&theme=tokyo-night&hide_border=true&color=A371F7&line=6e40c9&point=ff6b6b"/>
+
+<img src="https://raw.githubusercontent.com/ululhikam/ululhikam/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake eating contributions"/>
 
 </div>
 
