@@ -29,7 +29,7 @@ I build software — from interfaces to databases to the systems that connect th
 > **Software Developer exploring the intersection of software, data, and AI — and building products beyond the code.**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="260" alt="cat coding"/>
+  <img src="https://raw.githubusercontent.com/Zingzy/panda-api/main/gifs/1.gif" width="260" alt="cute panda gif"/>
 </div>
 
 ---
